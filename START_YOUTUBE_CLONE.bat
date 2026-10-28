@@ -9,3 +9,4 @@ set PATH=C:\Users\sachi\AppData\Local\nvm\v20.20.2;%PATH%
 start http://localhost:3000
 npm run dev
 pause
+
